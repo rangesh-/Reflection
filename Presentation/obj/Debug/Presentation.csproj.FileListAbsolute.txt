@@ -1,0 +1,15 @@
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\bin\Debug\Presentation.exe
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\bin\Debug\Presentation.pdb
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\MainWindow.baml
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\App.g.cs
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation.exe
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\obj\Debug\Presentation.pdb
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\bin\Debug\SampelVersion1.dll
+C:\Users\rsripathi\Google Drive\Reflections\Presentation\bin\Debug\SampelVersion1.pdb

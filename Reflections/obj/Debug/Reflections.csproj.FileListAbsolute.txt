@@ -1,0 +1,5 @@
+C:\Users\rsripathi\Google Drive\Reflections\Reflections\bin\Debug\Reflections.exe.config
+C:\Users\rsripathi\Google Drive\Reflections\Reflections\bin\Debug\Reflections.exe
+C:\Users\rsripathi\Google Drive\Reflections\Reflections\bin\Debug\Reflections.pdb
+C:\Users\rsripathi\Google Drive\Reflections\Reflections\obj\Debug\Reflections.exe
+C:\Users\rsripathi\Google Drive\Reflections\Reflections\obj\Debug\Reflections.pdb
